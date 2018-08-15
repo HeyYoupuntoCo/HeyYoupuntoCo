@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "name": "HeyYou",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HeyYoupuntoCo/HeyYoupuntoCo.git",
+  "author": "AlejandroJSR7 <AlejandroJSR7@Gmail.com>",
+  "license": "MIT",
+  "private": true
+}
