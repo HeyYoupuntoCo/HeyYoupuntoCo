@@ -20,12 +20,24 @@
 		}
 
 		&.major {
-			border: solid 1px;
-			display: inline-block;
+			background-color: _palette(bg);
+			@include vendor('background-image', (
+				'url("images/overlay.png")',
+				'linear-gradient(45deg, #{_palette(bg1)} 15%, #{_palette(bg2) 85%})',
+			));
 			border-radius: 100%;
-			padding: 0.65em;
-			margin: 0 0 _size(element-margin) 0;
+			border: solid 1px;
 			cursor: default;
+			display: inline-block;
+			height: 190px;
+			margin: 0 0 _size(element-margin) 0;
+			padding: 2em;
+			width: 190px;
+
+			img {
+				display: inline-block;
+				max-width: 100%;
+			}
 
 			&:before {
 				display: inline-block;
@@ -74,6 +86,46 @@
 			color: _palette(accent5);
 		}
 
+		&.style6 {
+			color: _palette(accent5);
+		}
+
+		&.style7 {
+			color: _palette(accent5);
+		}
+
+		&.style8 {
+			color: _palette(accent5);
+			img {
+				margin-left: 10px;
+				margin-top: 20px;
+			}
+		}
+		
+		&.style10 {
+			color: _palette(accent5);
+			img {
+				margin-top: 10px;
+			}
+		}
+
+		&.style11 {
+			color: _palette(accent5);
+			img {
+				margin-top: 10px;
+			}
+		}
+
+
+		&.style12 {
+			color: _palette(accent5);
+			img {
+				margin-top: 10px;
+				max-width: 90%;
+				max-height: 90%;
+			}
+		}
+		
 		@include breakpoint('<=xlarge') {
 			&.major {
 				&:before {
