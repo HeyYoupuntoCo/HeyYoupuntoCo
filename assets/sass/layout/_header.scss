@@ -113,4 +113,13 @@
 				}
 			}
 		}
+		p {
+			margin-bottom: 1em;
+		}
+		.icons {
+			margin-bottom: 0;
+			.icon.alt:before {
+				font-size: 2em;
+			}
+		}
 	}
