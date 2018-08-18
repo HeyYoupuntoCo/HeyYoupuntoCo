@@ -1,36 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="146px" height="150px" viewBox="0 0 146 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
     <title>category-fechas-especiales</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <polygon id="path-1" points="0 0.466049751 46.7378891 0.466049751 46.7378891 47.0750713 0 47.0750713"></polygon>
-        <polygon id="path-3" points="0.936461706 0.466049751 47.674 0.466049751 47.674 47.0750713 0.936461706 47.0750713"></polygon>
-        <polygon id="path-5" points="0.288517761 0.9781 131.931098 0.9781 131.931098 61 0.288517761 61"></polygon>
+        <linearGradient x1="50%" y1="-4.88712478%" x2="50%" y2="121.653613%" id="linearGradient-1">
+            <stop stop-color="#4191F1" offset="13%"></stop>
+            <stop stop-color="#5F58E5" offset="49%"></stop>
+            <stop stop-color="#812CC9" offset="86%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0 0.380517804 38.1603013 0.380517804 38.1603013 38.435602 0 38.435602"></polygon>
+        <polygon id="path-4" points="0.764597238 0.380517804 38.9246122 0.380517804 38.9246122 38.435602 0.764597238 38.435602"></polygon>
+        <polygon id="path-6" points="0.235567436 0.798593849 107.718396 0.798593849 107.718396 49.8049533 0.235567436 49.8049533"></polygon>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Categories" transform="translate(-22.000000, -21.000000)">
-            <g id="category-fechas-especiales" transform="translate(22.000000, 20.000000)">
-                <g id="Group-3" transform="translate(0.000000, 0.534000)">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <g id="Clip-2"></g>
-                    <path d="M46.7319,24.232 C47.0209,11.441 36.8149,0.764 23.8919,0.472 C11.1009,0.184 0.2939,10.387 0.0059,23.179 C-0.2851,36.1 10.0509,46.781 22.8409,47.069 C35.7639,47.36 46.4399,37.154 46.7319,24.232" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
-                </g>
-                <g id="Group-6" transform="translate(98.000000, 0.534000)">
-                    <mask id="mask-4" fill="white">
-                        <use xlink:href="#path-3"></use>
-                    </mask>
-                    <g id="Clip-5"></g>
-                    <path d="M47.6685,24.232 C47.9565,11.441 37.7505,0.764 24.8285,0.472 C12.0375,0.184 1.2305,10.387 0.9425,23.179 C0.6505,36.1 10.9865,46.781 23.7775,47.069 C36.7005,47.36 47.3765,37.154 47.6685,24.232" id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)"></path>
-                </g>
-                <g id="Group-9" transform="translate(4.000000, 89.534000)">
-                    <mask id="mask-6" fill="white">
-                        <use xlink:href="#path-5"></use>
-                    </mask>
-                    <g id="Clip-8"></g>
-                    <path d="M129.8423,7.1651 C127.3703,3.2901 123.1563,0.9781 118.5703,0.9781 C113.4473,0.9781 108.6953,4.0261 106.4653,8.7451 C99.0673,24.3871 83.1783,34.4941 65.9883,34.4941 C48.9483,34.4941 33.1683,24.3901 25.7843,8.7541 C23.5543,4.0301 18.8013,0.9781 13.6483,0.9781 C9.0693,0.9781 4.8573,3.2861 2.3843,7.1531 C-0.0557,10.9671 -0.3857,15.6861 1.5023,19.7751 C13.0683,44.8181 38.3993,61.0001 66.0363,61.0001 C93.6993,61.0001 119.0843,44.8271 130.7063,19.7981 C132.6043,15.7081 132.2813,10.9861 129.8423,7.1651" id="Fill-7" fill="#FFFFFF" mask="url(#mask-6)"></path>
+        <g id="Categories">
+            <g id="category-fechas-especiales" transform="translate(-46.000000, -3.000000)">
+                <rect id="category-fechas-especiales__bg" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(141.580000, 100.085000) rotate(-90.000000) translate(-141.580000, -100.085000) " x="42" y="-41" width="199.16" height="282.17"></rect>
+                <g id="category-fechas-especiales__face" transform="translate(83.000000, 39.000000)">
+                    <g id="Group-3" transform="translate(0.000000, 0.435997)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M38.1554114,19.7848136 C38.3913726,9.3412864 30.0584324,0.623786628 19.5071305,0.385376032 C9.06360337,0.150231334 0.239961898,8.48072213 0.0048172004,18.9250658 C-0.232776921,29.4747346 8.206305,38.1955003 18.6490157,38.430645 C29.2003175,38.6682391 37.9170008,30.3352989 38.1554114,19.7848136" id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                    </g>
+                    <g id="Group-6" transform="translate(80.014515, 0.435997)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Clip-5"></g>
+                        <path d="M38.9201216,19.7848136 C39.1552663,9.3412864 30.822326,0.623786628 20.2718407,0.385376032 C9.82831353,0.150231334 1.00467205,8.48072213 0.769527352,18.9250658 C0.531116756,29.4747346 8.97019868,38.1955003 19.4137258,38.430645 C29.9650277,38.6682391 38.681711,30.3352989 38.9201216,19.7848136" id="Fill-4" fill="#FFFFFF" mask="url(#mask-5)"></path>
+                    </g>
+                    <g id="Group-9" transform="translate(3.265899, 73.102241)">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <g id="Clip-8"></g>
+                        <path d="M106.012946,5.85012247 C103.99462,2.68628323 100.553996,0.798593849 96.8096435,0.798593849 C92.6268439,0.798593849 88.7469564,3.28720856 86.9262179,7.14015241 C80.8859385,19.9114488 67.9129729,28.163558 53.8777737,28.163558 C39.9650458,28.163558 27.0810759,19.9138982 21.0522272,7.14750068 C19.2314887,3.29047446 15.3507847,0.798593849 11.1434909,0.798593849 C7.40485349,0.798593849 3.96586229,2.68301733 1.94672049,5.84032478 C-0.0454776377,8.95435907 -0.31491427,12.8073029 1.22658986,16.1458677 C10.6699356,36.5928422 31.3520548,49.8050349 53.9169645,49.8050349 C76.5031026,49.8050349 97.2293114,36.6001905 106.71838,16.1646466 C108.268049,12.8252654 108.004327,8.96987209 106.012946,5.85012247" id="Fill-7" fill="#FFFFFF" mask="url(#mask-7)"></path>
+                    </g>
                 </g>
             </g>
         </g>
